@@ -26,5 +26,7 @@ For running the project in Visual Studio Code, the "Live Server" extension makes
 
 #OUTPUT#
 
+![Image](https://github.com/user-attachments/assets/420720ca-4f8d-46cd-a716-e9c055ba436d)
+
 
 
